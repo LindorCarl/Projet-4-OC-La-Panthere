@@ -1,7 +1,7 @@
 
-# Améliorer le SEO de La Panthère.
+# Améliorer le SEO de l'agence La Panthère.
 
-Quatrieme projet du parcours "Développeur Web 👌". L'objectif est d'améliorer le SEO de L'agence La panthère en tenant compte de son accessibilité.🌞 
+Quatrieme projet du parcours "Développeur Web". L'objectif est d'améliorer le SEO de L'agence La Panthère en tenant compte de son accessibilité.
 
 ## Objectifs
 
